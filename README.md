@@ -35,7 +35,6 @@ python scripts/proyeccion_actual.py
 ```
 
 ## Ejecución rápida (modelo ya entrenado)
-Si `data/processed/modelos_guardados/` contiene un modelo `.joblib` previo:
 ```bash
 python scripts/proyeccion_actual.py
 ```
