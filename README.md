@@ -34,10 +34,6 @@ python scripts/backtest.py
 python scripts/proyeccion_actual.py
 ```
 
-> **Nota**: los pasos 1-3 pueden tardar 2-3 horas en total. Si el modelo ya está entrenado, ejecutar solo el paso 5 tarda segundos.
-
----
-
 ## Ejecución rápida (modelo ya entrenado)
 Si `data/processed/modelos_guardados/` contiene un modelo `.joblib` previo:
 ```bash
@@ -83,4 +79,4 @@ Genera en segundos el ranking predicho y los pesos recomendados para el trimestr
 ---
 
 ## Contacto
-Ángel García-Mochales Ruiz · [LinkedIn](https://www.linkedin.com/in/tu_perfil)
+Ángel García-Mochales Ruiz
