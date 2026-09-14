@@ -51,15 +51,6 @@ Genera en segundos el ranking predicho y los pesos recomendados para el trimestr
 📄 README.md
 📄 requirements.txt
 ```
-
----
-
-## Scripts de soporte
-| Script | Descripción |
-|---|---|
-| `Validacion_anidada.py` | Exploración de configuraciones alternativas de features |
-| `InformacionFeatures.py` | Análisis detallado y gráficas históricas de las features |
-
 ---
 
 ## Resultados principales
